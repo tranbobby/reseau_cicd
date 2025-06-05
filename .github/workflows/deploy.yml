@@ -3,7 +3,7 @@ name: Angular CI/CD
 on:
   push:
     branches:
-      - master  # ou main si ta branche est main
+      - master  # ou la branche main au choix
 
 jobs:
   build-and-deploy:
